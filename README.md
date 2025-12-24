@@ -31,7 +31,7 @@
 
 ### 📫 Contact Me
 - Email: nunemunthalamanitej@gmail.com  
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn:
 
 ---
 
