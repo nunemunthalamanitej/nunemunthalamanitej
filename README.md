@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi 👋 I'm nunemunthalamanitej
 
-<!--
-**nunemunthalamanitej/nunemunthalamanitej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (AI/ML) Student  
+💻 Learning Python & Java  
+🚀 Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Python
+- Java
+- Git & GitHub
+- Basics of Machine Learning
+
+---
+
+### 📂 Projects
+- Student Management System (Java)
+- To-Do App (Python)
+- Weather App (API based)
+
+---
+
+### 📫 Contact Me
+- Email: your-email@gmail.com
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+⭐ Thank you for visiting my profile!
